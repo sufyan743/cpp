@@ -1,1 +1,1 @@
-# cpp
+# Face recognition project.
